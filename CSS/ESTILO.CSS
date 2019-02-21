@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding:0px;
+    text-decoration: none;
+      
+}
+body{
+    background-color:whitesmoke;
+    /*background: url(../IMG/photo2.jpg) no-repeat fixed center center ; */
+    background-size: cover;
+}
+#contenedor{
+        width: 100%;
+        max-width: 1920px; /*maximo que va a crecer mi pagina*/
+        margin: 0 auto; /*pasados los 2000px centra la pagina*/
+        height: 100%;
+        max-height: 1080px; /*maximo que va a crecer mi pagina*/
+        margin: 0 auto; /*pasados los 2000px centra la pagina*/
+        
+        
+    
+}
+header{
+       /* height: 90px;
+        width: 100%;
+        background-color: dimgray;
+        border: 2px solid black;
+        background-image: linear-gradient(rgb(40, 153, 146),rgb(98, 195, 189))*/
+}
